@@ -1,6 +1,6 @@
 # FinBot
 
-#### Keyword
+### Keyword
 1. What is the total revenue?
 2. How has net income changed over the last year?
 3. What are the current liabilities?
@@ -16,5 +16,5 @@
 13. "What is the year by year average liabilities growth rate(%)?"
 14. "What is the year by year average cash flow from operations growth rate(%)?"
 
-##### Link
+### Link
 Prototype Demo Applications : [Demo FinBot AI](https://finbotai.streamlit.app/)
