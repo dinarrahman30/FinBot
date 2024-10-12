@@ -17,4 +17,4 @@
 14. "What is the year by year average cash flow from operations growth rate(%)?"
 
 
-Demo Applications : [Demo FinBot AI](https://finbotai.streamlit.app/)
+Prototype Demo Applications : [Demo FinBot AI](https://finbotai.streamlit.app/)
